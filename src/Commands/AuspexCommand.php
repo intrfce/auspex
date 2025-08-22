@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Intrfce\Auspex\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class AuspexCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'auspex';
 
     public $description = 'My command';
 
