@@ -2,9 +2,9 @@
 
 namespace Intrfce\Auspex;
 
+use Intrfce\Auspex\Commands\AuspexCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Intrfce\Auspex\Commands\AuspexCommand;
 
 class AuspexServiceProvider extends PackageServiceProvider
 {
